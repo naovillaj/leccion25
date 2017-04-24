@@ -1,0 +1,37 @@
+body{
+	margin: 20px 100px;
+	background-color: #FFFFE0;
+}
+
+input {
+	border-radius: 2px;
+	-webkit-appearance: none;
+	border: 1px solid #ccc;
+	padding: 7px;
+}
+
+label{
+	font-family: 'Josefin Sans';
+	font-weight: bold;
+	font-size: 18px;
+}
+.text-center{
+	text-align: center;
+}
+
+#contenedor{
+	margin-top: 70px;
+}
+
+.contenedor-imagen{
+	width: 325px;
+	height: 350px;
+	display: inline-block;
+	margin: 0 10px 20px 10px;
+	border: 2px solid #0A91AE;
+}
+
+img{
+	width: 100%;
+	height: 100%;
+}
